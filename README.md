@@ -19,6 +19,10 @@ it should be far easier to write custom register space view generators.
 ## Documentation
 See the [SystemRDL Compiler Documentation](http://systemrdl-compiler.readthedocs.io) for more details
 
+## Install from Github using pip
+cd to downloaded_directory
+pip install -e .
+
 ## Related Projects
 This is just the beginning! If you want to contribute, check out these other
 projects.
