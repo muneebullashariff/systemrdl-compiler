@@ -20,8 +20,18 @@ it should be far easier to write custom register space view generators.
 See the [SystemRDL Compiler Documentation](http://systemrdl-compiler.readthedocs.io) for more details
 
 ## Install from Github using pip
-cd to downloaded_directory
-pip install -e .
+mkdir path_to_folder  
+cd path_to_folder  
+git clone https://github.com/muneebullashariff/systemrdl-compiler.git  
+cd to systemrdl-compiler  
+pip install -e .  
+
+Advantages of this approach are:  
+1 - You can install package in your home projects directory.  
+2 - Package includes .git dir, so it's regular Git repository. You can push to your fork right away.  
+
+## Uninstall   
+pip uninstall systemrdl-compiler  
 
 ## Related Projects
 This is just the beginning! If you want to contribute, check out these other
