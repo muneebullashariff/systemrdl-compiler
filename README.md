@@ -37,13 +37,13 @@ pip uninstall systemrdl-compiler
 This is just the beginning! If you want to contribute, check out these other
 projects.
 
-### [PeakRDL-html](https://github.com/SystemRDL/PeakRDL-html)
+### [PeakRDL-html](https://github.com/muneebullashariff/PeakRDL-html)
 Generate dynamic register spec documentation.
 
 ### [PeakRDL-ipxact](https://github.com/SystemRDL/PeakRDL-ipxact)
 Convert the SystemRDL register model to/from IP-XACT.
 
-### [PeakRDL-uvm](https://github.com/SystemRDL/PeakRDL-uvm)
+### [PeakRDL-uvm](https://github.com/muneebullashariff/PeakRDL-uvm)
 Create a UVM Register model.
 
 ### [PeakRDL](https://github.com/SystemRDL/PeakRDL)
